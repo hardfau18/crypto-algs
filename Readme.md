@@ -6,3 +6,4 @@ Its a encryption library written in rust for learning purpose
 #### encryption algorithms included
 - shift cipher
 - vigenere cipher
+- Transposition cipher
